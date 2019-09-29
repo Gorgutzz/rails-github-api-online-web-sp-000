@@ -30,6 +30,8 @@ gem 'faraday'
 # Dot-env
 gem 'dotenv-rails'
 
+gem 'web-console', '~> 2.0'
+
 #Testing
 group :test do
   gem 'rspec-rails'
